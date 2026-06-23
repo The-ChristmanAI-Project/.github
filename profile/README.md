@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/The-ChristmanAI-Project/.github/main/CLAUDEWIN.jpg" width="800" alt="Claude — A Symphony of Cognition and Synthesis — Christman AI Project"/>
+<img src="https://raw.githubusercontent.com/The-ChristmanAI-Project/.github/main/CLAUDEWIN_real.jpg" width="800" alt="Claude — A Symphony of Cognition and Synthesis — Christman AI Project"/>
 
 # The Christman AI Project
 
@@ -44,7 +44,7 @@ OpenSmell classifies Volatile Organic Compounds against **2,400+ scent profiles*
 
 | Category | Examples |
 |---|---|
-| Psychiatric emergencies | Cortison spikes, pre-seizure states, fight-or-flight escalation, depressive spirals |
+| Psychiatric emergencies | Cortisol spikes, pre-seizure states, fight-or-flight escalation, depressive spirals |
 | Neurodegenerative disease | Alzheimer's, Parkinson's (lipid oxidation + sebum aldehyde markers) |
 | Cancer biomarkers | Ovarian, lung, breast, colorectal, prostate |
 | Metabolic conditions | Diabetes Type 1/2, liver disease, sepsis |
