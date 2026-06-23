@@ -8,6 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-thechristmanaiproject.com-0084FF?style=flat-square)](https://thechristmanaiproject.com)
 [![X](https://img.shields.io/badge/X-@ChristmanAI-000000?style=flat-square&logo=x)](https://x.com/ChristmanAI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TheChristmanAIProject-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thechristmanaiproject)
 [![License](https://img.shields.io/badge/License-Apache%202.0-00E676?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 
 </div>
@@ -43,7 +44,7 @@ OpenSmell classifies Volatile Organic Compounds against **2,400+ scent profiles*
 
 | Category | Examples |
 |---|---|
-| Psychiatric emergencies | Cortisol spikes, pre-seizure states, fight-or-flight escalation, depressive spirals |
+| Psychiatric emergencies | Cortison spikes, pre-seizure states, fight-or-flight escalation, depressive spirals |
 | Neurodegenerative disease | Alzheimer's, Parkinson's (lipid oxidation + sebum aldehyde markers) |
 | Cancer biomarkers | Ovarian, lung, breast, colorectal, prostate |
 | Metabolic conditions | Diabetes Type 1/2, liver disease, sepsis |
