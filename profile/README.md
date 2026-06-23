@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/210156477?s=200&v=4" width="120" alt="TCAP Logo"/>
+<img src="https://raw.githubusercontent.com/The-ChristmanAI-Project/.github/main/CLAUDEWIN.jpg" width="800" alt="Claude — A Symphony of Cognition and Synthesis — Christman AI Project"/>
 
 # The Christman AI Project
 
