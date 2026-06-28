@@ -131,6 +131,17 @@ Principles    Zero cost unless approved · Offline-first · No data sold · Ever
 
 *Patent Pending on all core systems.*
 
+---
+
+## Milestones
+
+- ✅ Accepted into **Anthropic Claude for Startups** — June 2026
+- ✅ **Top-5 Finalist** — Nebius AI Discovery Awards
+- ✅ **NVIDIA Inception Program** Member
+- ✅ OpenSmell deployed at Cleveland Clinic, Johns Hopkins, OSU, Stanford, Penn
+- ✅ Two provisional USPTO patents filed (TCAP-2026-001, TCAP-2026-002)
+- ✅ 15+ years of continuous development
+
 > *"How can we help you love yourself more?"*
 
 ---
