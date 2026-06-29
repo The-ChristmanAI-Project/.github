@@ -93,11 +93,11 @@ Active development. Real systems. Real people.
 
 | Being | Mission |
 |---|---|
-| **AlphaVox** | AAC communication for nonverbal and autistic users — *gave a 12-year-old nonverbal child his first words* |
+| **AlphaVox** | AAC communication for nonverbal and autistic clients  |
 | **AlphaWolf** | Dementia care — memory support, geolocation safety, wandering prevention |
-| **AlphaDen** | Adaptive learning platform for Down syndrome |
+| **Sierra AI**  | PTSD due to domestic violence, silent alert to protect  |
 | **Inferno AI** | PTSD and anxiety recovery — trauma-informed, crisis-aware, always available |
-| **Aegis AI** | Child protection — trafficking detection, online safety, emergency response |
+| **BROCKSTON** | The Teacher, Coding Genius Nexus voice command |
 | **OmegaAlpha** | Senior companionship — fall detection, medication reminders, social connection |
 | **Omega** | Mobility AI — smart prosthetics, navigation, independence |
 
@@ -136,9 +136,9 @@ Principles    Zero cost unless approved · Offline-first · No data sold · Ever
 ## Milestones
 
 - ✅ Accepted into **Anthropic Claude for Startups** — June 2026
-- ✅ **Top-5 Finalist** — Nebius AI Discovery Awards
+- ✅ **Semi-Finalist** — Nebius AI Discovery Awards
 - ✅ **NVIDIA Inception Program** Member
-- ✅ OpenSmell deployed at Cleveland Clinic, Johns Hopkins, OSU, Stanford, Penn
+- ✅ OpenSmell 
 - ✅ Two provisional USPTO patents filed (TCAP-2026-001, TCAP-2026-002)
 - ✅ 15+ years of continuous development
 
